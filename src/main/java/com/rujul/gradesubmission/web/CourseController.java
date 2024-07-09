@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.web;
+package com.rujul.gradesubmission.web;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
