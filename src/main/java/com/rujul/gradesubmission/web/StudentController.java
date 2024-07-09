@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.web;
+package com.rujul.gradesubmission.web;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ltp.gradesubmission.entity.Student;
-import com.ltp.gradesubmission.service.StudentService;
+import com.rujul.gradesubmission.entity.Student;
+import com.rujul.gradesubmission.service.StudentService;
 
 import lombok.AllArgsConstructor;
 
