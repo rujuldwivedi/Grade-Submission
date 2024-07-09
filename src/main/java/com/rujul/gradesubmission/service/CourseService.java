@@ -1,8 +1,8 @@
-package com.ltp.gradesubmission.service;
+package com.rujul.gradesubmission.service;
 
 import java.util.List;
 
-import com.ltp.gradesubmission.entity.Course;
+import com.rujul.gradesubmission.entity.Course;
 
 public interface CourseService {
     Course getCourse(Long id);
