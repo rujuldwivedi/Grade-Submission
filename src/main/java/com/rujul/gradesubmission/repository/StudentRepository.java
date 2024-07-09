@@ -1,8 +1,8 @@
-package com.ltp.gradesubmission.repository;
+package com.rujul.gradesubmission.repository;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.ltp.gradesubmission.entity.Student;
+import com.rujul.gradesubmission.entity.Student;
 
 public interface StudentRepository extends CrudRepository<Student, Long> {
 
