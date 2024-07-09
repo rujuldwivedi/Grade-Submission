@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.entity;
+package com.rujul.gradesubmission.entity;
 
 import java.util.List;
 
