@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.entity;
+package com.rujul.gradesubmission.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
