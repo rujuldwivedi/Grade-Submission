@@ -8,7 +8,7 @@
 		<version>2.7.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ltp</groupId>
+	<groupId>com.rujul</groupId>
 	<artifactId>grade-submission</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>grade-submission</name>
