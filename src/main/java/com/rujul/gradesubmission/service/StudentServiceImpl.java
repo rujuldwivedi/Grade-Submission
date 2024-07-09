@@ -1,13 +1,13 @@
-package com.ltp.gradesubmission.service;
+package com.rujul.gradesubmission.service;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import com.ltp.gradesubmission.entity.Student;
-import com.ltp.gradesubmission.exception.StudentNotFoundException;
-import com.ltp.gradesubmission.repository.StudentRepository;
+import com.rujul.gradesubmission.entity.Student;
+import com.rujul.gradesubmission.exception.StudentNotFoundException;
+import com.rujul.gradesubmission.repository.StudentRepository;
 
 import lombok.AllArgsConstructor;
 
