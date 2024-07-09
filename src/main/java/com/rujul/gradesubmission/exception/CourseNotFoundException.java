@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.exception;
+package com.rujul.gradesubmission.exception;
 
 public class CourseNotFoundException extends RuntimeException { 
 
