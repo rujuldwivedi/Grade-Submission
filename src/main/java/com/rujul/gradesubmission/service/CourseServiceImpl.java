@@ -1,11 +1,11 @@
-package com.ltp.gradesubmission.service;
+package com.rujul.gradesubmission.service;
 
 import java.util.List;
 import java.util.Optional;
 
-import com.ltp.gradesubmission.entity.Course;
-import com.ltp.gradesubmission.exception.CourseNotFoundException;
-import com.ltp.gradesubmission.repository.CourseRepository;
+import com.rujul.gradesubmission.entity.Course;
+import com.rujul.gradesubmission.exception.CourseNotFoundException;
+import com.rujul.gradesubmission.repository.CourseRepository;
 
 import lombok.AllArgsConstructor;
 
