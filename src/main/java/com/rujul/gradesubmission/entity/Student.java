@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission.entity;
+package com.rujul.gradesubmission.entity;
 
 import java.time.LocalDate;
 import java.util.List;
